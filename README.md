@@ -4,4 +4,4 @@ A test application that can be deployed into Azure Cloud services (extended supp
 
 The application will host an API to verify that it is running successfully.
 
-API Path: `http://<domain>/api/test`
+API Path: `GET http://<domain>/api/test`
